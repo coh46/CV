@@ -9,8 +9,8 @@
 |現在地|東京都|
 |エンジニア歴|2018/4 -|
 |メール|coh46r@gmail.com|
-|Twitter|[@old_calf](https://twitter.com/old_calf)|
-|Qiita|[@coh46](https://qiita.com/coh46)|
+|Twitter|[@ryuco46](https://twitter.com/ryuco46)|
+|Qiita|[@ryuco46](https://qiita.com/ryuco46)|
 
 ## 経歴
 |年月|経歴|備考|
